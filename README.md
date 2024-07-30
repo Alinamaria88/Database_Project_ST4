@@ -1,1 +1,1 @@
-# Database_Project_ST4
+# Database Project for Korean Beauty Store
