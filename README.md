@@ -11,6 +11,7 @@
   <p>1. Database Schema </p>
 
   <p>You can find below the database schema that was generated through Reverse Engineer and which contains all the tables and the relationships between them.<br>
+    ![image alt](https://github.com/Alinamaria88/Database_Project_ST4/blob/main/EER%20DiagramFinal.JPG?raw=true)
 The tables are connected in the following way:</p>
 
 <p>Customers is connected with Orders through a one-to-many relationship which was implemented through Customers.CustomerID as a primary key and Orders.CustID as a foreign key.</p>
